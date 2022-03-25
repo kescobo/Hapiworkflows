@@ -1,0 +1,4 @@
+[deps]
+Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
+Hapi = "44435ed6-78f5-4310-9349-4d47d7b9c9a9"
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
